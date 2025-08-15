@@ -8,4 +8,5 @@ This Power BI dashboard provides a comprehensive annual overview of an e-commerc
 * Top 5 States by Sales Amount  
 * Interactive filters by month allow detailed time-based analysis. The visualizations help track performance trends, customer preferences, and regional sales distribution effectively.
 
+* DASHBOARD:  
 ![DASHBOARD](image/PBI_Ecommerce_Dashboard.png)
